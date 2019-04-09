@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\bin\Debug\aslab4.exe.config
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\bin\Debug\aslab4.exe
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\bin\Debug\aslab4.pdb
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.Form1.resources
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.Properties.Resources.resources
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.exe
+C:\Users\foi.LABOS\Documents\asmoljan1\aslab4\aslab4\obj\Debug\aslab4.pdb
